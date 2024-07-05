@@ -1,0 +1,10 @@
+/Users/jojo4723/Projekt/IPL/iplstats/src/main/java/se/jocke/iplstats/IplstatsApplication.java
+/Users/jojo4723/Projekt/IPL/iplstats/src/main/java/se/jocke/iplstats/data/BatchConfig.java
+/Users/jojo4723/Projekt/IPL/iplstats/src/main/java/se/jocke/iplstats/data/JobCompletionNotificationListener.java
+/Users/jojo4723/Projekt/IPL/iplstats/src/main/java/se/jocke/iplstats/model/Team.java
+/Users/jojo4723/Projekt/IPL/iplstats/src/main/java/se/jocke/iplstats/model/Match.java
+/Users/jojo4723/Projekt/IPL/iplstats/src/main/java/se/jocke/iplstats/repository/MatchRepository.java
+/Users/jojo4723/Projekt/IPL/iplstats/src/main/java/se/jocke/iplstats/data/MatchInput.java
+/Users/jojo4723/Projekt/IPL/iplstats/src/main/java/se/jocke/iplstats/repository/TeamRepository.java
+/Users/jojo4723/Projekt/IPL/iplstats/src/main/java/se/jocke/iplstats/controller/TeamController.java
+/Users/jojo4723/Projekt/IPL/iplstats/src/main/java/se/jocke/iplstats/data/MatchDataProcessor.java

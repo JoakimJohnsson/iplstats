@@ -1,0 +1,14 @@
+${AnsiColor.BRIGHT_RED}  _____      _      _        _
+${AnsiColor.BRIGHT_YELLOW} / ____|    (_)    | |      | |
+${AnsiColor.YELLOW}| |     _ __ _  ___| | _____| |_
+${AnsiColor.BRIGHT_GREEN}| |    | '__| |/ __| |/ / _ \ __|
+${AnsiColor.CYAN}| |____| |  | | (__|   <  __/ |_
+${AnsiColor.BRIGHT_CYAN} \_____|_|  |_|\___|_|\_\___|\__|
+-------------------------------------
+|  Spring Boot & React App
+${AnsiColor.BRIGHT_YELLOW}|  Brought to you by TEAM_JJ_2022
+${AnsiColor.BRIGHT_GREEN}|  Version: ${application.version}
+|  Spring Boot Version: ${spring-boot.version}
+|  Spring Boot Formatted: ${spring-boot.formatted-version}
+|  App Name: ${application.title}
+${Ansi.DEFAULT}

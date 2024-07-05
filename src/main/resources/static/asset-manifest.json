@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.769a2c68.css",
+    "main.js": "/static/js/main.8949f610.js",
+    "static/media/rajasthanroyals.jpg": "/static/media/rajasthanroyals.b5f7f8a9c2b748db5991.jpg",
+    "static/media/chennaisuperkings.jpg": "/static/media/chennaisuperkings.2daceca28508e1ad831c.jpg",
+    "static/media/hero.jpg": "/static/media/hero.b4869cb59ff9882061c4.jpg",
+    "static/media/deccanchargers.jpg": "/static/media/deccanchargers.710ca868f4fa0b364d98.jpg",
+    "static/media/risingpunesupergiants.jpg": "/static/media/risingpunesupergiants.47cacc3d1c5040dabdc8.jpg",
+    "static/media/sunrisershyderabad.jpg": "/static/media/sunrisershyderabad.0beb54bfd544f5475f22.jpg",
+    "static/media/delhicapitals.jpg": "/static/media/delhicapitals.471ba560c82b779029f1.jpg",
+    "static/media/mumbaiindians.jpg": "/static/media/mumbaiindians.2036cc7310421fe1797c.jpg",
+    "static/media/gujaratlions.jpg": "/static/media/gujaratlions.2e1c82ff8897ddbeddec.jpg",
+    "static/media/kingsxipunjab.jpg": "/static/media/kingsxipunjab.b0de0c8603ece2ca335a.jpg",
+    "static/media/kochituskers.jpg": "/static/media/kochituskers.578f5b1710540a7a8507.jpg",
+    "static/media/kolkataknightriders.jpg": "/static/media/kolkataknightriders.fce6a385ac62d3c4c125.jpg",
+    "static/media/punewarriors.jpg": "/static/media/punewarriors.43a65473790662a2d14f.jpg",
+    "static/media/royalchallengersbangalore.jpg": "/static/media/royalchallengersbangalore.b99448f0a65296649a20.jpg",
+    "index.html": "/index.html",
+    "main.769a2c68.css.map": "/static/css/main.769a2c68.css.map",
+    "main.8949f610.js.map": "/static/js/main.8949f610.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.769a2c68.css",
+    "static/js/main.8949f610.js"
+  ]
+}

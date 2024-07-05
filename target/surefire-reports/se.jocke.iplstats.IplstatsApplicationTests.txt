@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: se.jocke.iplstats.IplstatsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.254 s <<< FAILURE! - in se.jocke.iplstats.IplstatsApplicationTests
+se.jocke.iplstats.IplstatsApplicationTests  Time elapsed: 0.253 s  <<< ERROR!
+java.lang.IllegalArgumentException: Unresolvable class definition for class [se.jocke.iplstats.IplstatsApplication]
+Caused by: java.lang.UnsupportedClassVersionError: se/jocke/iplstats/IplstatsApplication has been compiled by a more recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+
